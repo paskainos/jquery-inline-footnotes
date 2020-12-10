@@ -80,7 +80,7 @@
     $.inlineFootnote.defaultOptions = {
       boxMargin: 20,
       hideDelay: 200,
-      hideFromContent: "[rev=footnote]",
+      hideFromContent: '[rev="footnote"]',
       maximumBoxWidth: 500,
       boxId: "footnote_box"
     };
